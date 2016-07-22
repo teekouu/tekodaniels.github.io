@@ -1,2 +1,2 @@
-# tekodaniels.github.io
+# http://tekodaniels.github.io
 My,Personal Website
